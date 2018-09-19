@@ -1,0 +1,18 @@
+Altium Designer Pick and Place Locations
+D:\FEDEVEL Academy\LED Youtube Project\Project Outputs for LED Project\Generates pick and place files\[No Variations].txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       15/09/18
+Time:       13:34
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment      Layer       Footprint Center-X(mil) Center-Y(mil) Rotation Description                                 
+R2         360R         BottomLayer R0805     708.661       511.811       270      "RES SMD 360 OHM 1% 1/8W 0805"              
+D2         GREEN        BottomLayer LED0603G  708.661       338.583       90       "Standard LEDs - SMD LED GR HI-BRT USS"     
+R1         360R         TopLayer    R0805     236.220       531.496       270      "RES SMD 360 OHM 1% 1/8W 0805"              
+J1         "1x2 Header" TopLayer    HDR1X2    570.866       422.441       0        "Headers & Wire Housings 2 PIN F/LK HEADER" 
+D1         GREEN        TopLayer    LED0603G  236.220       275.591       90       "Standard LEDs - SMD LED GR HI-BRT USS"     
