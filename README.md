@@ -5,4 +5,4 @@ you will learn how to start with Altium Designer and where it is explained step-
 Click here to watch the video: https://www.youtube.com/playlist?list=PLXvLToQzgzdfKKQn2wmpuSXz6sROQmO6R
 
 ## Updates
-2019-10-24: Used also in video about how to create "Altium - How to create Custom Title Block": https://youtu.be/cD-iW0LNR9Q-10-24
+2019-10-24: Used also in video "Altium - How to create Custom Title Block": https://youtu.be/cD-iW0LNR9Q-10-24
